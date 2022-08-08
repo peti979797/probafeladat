@@ -1,5 +1,5 @@
 # probafeladat
- ###Alapból van egy admin(Username: admin | password: adminpassword)
+ ### Alapból van egy admin(Username: admin | password: adminpassword)
 
 -Regisztrálást követően a felhasználó User szerepkörben van.
 
